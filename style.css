@@ -14,7 +14,7 @@ h1{
   font-weight: 50;
   margin: 1rm 0 3rem;
   text-align: center;
-  color: #fff;
+  color: #10e71b;
   font-family: sans-serif;
 }
 .styling{
@@ -32,10 +32,10 @@ h1{
   height: 50px;
   outline: none;
   border: none;
-  background-color: gray;
+  background-color: rgb(166, 135, 252);
   width: 450px;
   font-size: 1.15rem;
-  color: black;
+  color: rgb(27, 14, 14);
   cursor: pointer;
   
 }
