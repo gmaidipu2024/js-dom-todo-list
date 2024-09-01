@@ -31,11 +31,13 @@ h1{
   padding: 0.5rem 1rem;
   height: 50px;
   outline: none;
- border: none;
+  border: none;
   background-color: gray;
   width: 450px;
   font-size: 1.15rem;
   color: black;
+  cursor: pointer;
+  
 }
 .addButton{
   height: 50px;
